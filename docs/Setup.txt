@@ -1,0 +1,10 @@
+To Setup package.json file use below command:
+    npm -i init
+
+To install cypress:
+    Suppose yoiu move this project somewhere other directory then only this command needs to run.
+        npm install cypress --save-dev
+
+To Start Cypress:
+    npx cypress open
+    
